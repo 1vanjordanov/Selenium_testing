@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05713590-69aa-49f1-b108-bf88aefd958a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/SeleniumSimple.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/github/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/po/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/github/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/po/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/po/ProductPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/github/ProductPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/atda/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/atda/LoginTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YkvvImXKugxMIiksPXYWtXTBpU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/drivers" />
+      <recent name="C:\Users\smitkovski\Desktop\private\SeleniumYoutube\src\main\resources\drivers" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="atda" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.LoginTest">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Selenium_Simple_Framwork" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="Selenium_Simple_Framwork" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AcceptanceTestDrivenAutomationTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumYoutube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="github.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="atda" />
+      <option name="MAIN_CLASS_NAME" value="atda.AcceptanceTestDrivenAutomationTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AcceptanceTestDrivenAutomationTests.canNotLoginWithInvalidUserName" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumYoutube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="atda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="atda" />
+      <option name="MAIN_CLASS_NAME" value="atda.AcceptanceTestDrivenAutomationTests" />
+      <option name="METHOD_NAME" value="canNotLoginWithInvalidUserName" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AcceptanceTestDrivenAutomationTests.shouldLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumYoutube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="github.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="atda" />
+      <option name="MAIN_CLASS_NAME" value="atda.AcceptanceTestDrivenAutomationTests" />
+      <option name="METHOD_NAME" value="shouldLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AcceptanceTestDrivenAutomationTests.shouldOpen" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Simple_Framwork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="github.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="atda" />
+      <option name="MAIN_CLASS_NAME" value="atda.AcceptanceTestDrivenAutomationTests" />
+      <option name="METHOD_NAME" value="shouldOpen" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AcceptanceTestDrivenAutomationTests.shouldOpen" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumYoutube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="po.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="atda" />
+      <option name="MAIN_CLASS_NAME" value="atda.AcceptanceTestDrivenAutomationTests" />
+      <option name="METHOD_NAME" value="shouldOpen" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumSimple" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="atda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="atda" />
+      <option name="MAIN_CLASS_NAME" value="atda.LoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginTest" />
+        <item itemvalue="TestNG.AcceptanceTestDrivenAutomationTests.canNotLoginWithInvalidUserName" />
+        <item itemvalue="TestNG.AcceptanceTestDrivenAutomationTests.shouldLogin" />
+        <item itemvalue="TestNG.AcceptanceTestDrivenAutomationTests" />
+        <item itemvalue="TestNG.AcceptanceTestDrivenAutomationTests.shouldOpen" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05713590-69aa-49f1-b108-bf88aefd958a" name="Default Changelist" comment="" />
+      <created>1583499635771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583499635771</updated>
+      <workItem from="1583499638922" duration="5207000" />
+      <workItem from="1583590817453" duration="617000" />
+      <workItem from="1583774944654" duration="698000" />
+      <workItem from="1583861336897" duration="702000" />
+      <workItem from="1583863006687" duration="1319000" />
+      <workItem from="1586017533747" duration="77000" />
+      <workItem from="1586017993716" duration="275000" />
+      <workItem from="1586034020102" duration="2135000" />
+      <workItem from="1586115006037" duration="838000" />
+      <workItem from="1619376320173" duration="4788000" />
+    </task>
+    <task id="LOCAL-00001" summary="push files">
+      <created>1583590953494</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583590953494</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="push files" />
+    <option name="LAST_COMMIT_MESSAGE" value="push files" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="951" height="207" key="GridCell.Tab.0.bottom" timestamp="1619381220891">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="951" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619381220891" />
+    <state width="951" height="207" key="GridCell.Tab.0.center" timestamp="1619381220891">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="951" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1619381220891" />
+    <state width="951" height="207" key="GridCell.Tab.0.left" timestamp="1619381220890">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="951" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1619381220890" />
+    <state width="951" height="207" key="GridCell.Tab.0.right" timestamp="1619381220891">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="951" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1619381220891" />
+  </component>
+</project>
